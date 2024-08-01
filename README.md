@@ -1,4 +1,6 @@
-## Hi there 👋
+# Olá, meu nome é ***Rodrigo Domingues Pelissari***
+### Bem vindo(a) ao meu GitHub 👋
+___
 
 <!--
 **Rodrigo-Pelissari/Rodrigo-Pelissari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
