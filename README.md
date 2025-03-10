@@ -1,8 +1,8 @@
 # Olá, meu nome é ***Rodrigo Domingues Pelissari***
 ### Bem vindo(a) ao meu GitHub 👋
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rodrigo-Pelissari&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Pelissari&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rodrigo-Pelissari&show_icons=true&theme=merko)
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Pelissari&layout=compact&theme=merko)
 
 ## 🚀 Tecnologias que uso:
 
