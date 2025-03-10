@@ -1,7 +1,3 @@
-Aqui está uma versão aprimorada do seu README com um design mais estilizado, emojis para torná-lo mais atraente e algumas melhorias na organização. Também incluí sugestões ao final.  
-
----
-
 # 🚀 **Rodrigo Domingues Pelissari**  
 ### 👋 Bem-vindo(a) ao meu GitHub!  
 
